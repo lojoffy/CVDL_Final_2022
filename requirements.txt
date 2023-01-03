@@ -8,5 +8,5 @@ numpy
 tensorflow-cpu==2.5.0
 tensorflow-datasets==4.3.0
 tensorflow_addons==0.13.0
-streamlit
 opencv-python
+streamlit
